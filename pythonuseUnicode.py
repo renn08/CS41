@@ -1,0 +1,7 @@
+print("Go Blue!!!\U0001F499\U0001F499\U0001F499")
+print()
+print("Some other interesting stuffs:")
+print("\U0001F37E")
+print("\U000030C7")
+print("\U0001F605")
+print("\'char\' is just a string of length 1 in python and python use Unicode to represent all 'char'")
