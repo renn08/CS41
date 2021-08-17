@@ -1,0 +1,11 @@
+git add .
+git commit -m "something"
+git push
+git checkout -b branch_1 #create a branch branch_1
+git push origin branch_1 #push the branch to the remote
+git checkout main #switch back to the main branch
+git branch -a #see all branches
+git branch -d branch_1 #delete branch_1
+
+***************************************
+see https://www.bootcss.com/p/git-guide/
