@@ -9,6 +9,10 @@ print(is_prime(4))
 Functions do not have return types, def to define, return optional, implicitly returns None
 """
 
+print(not True)
+print(True or False)
+print(True and False)
+
 
 
     
